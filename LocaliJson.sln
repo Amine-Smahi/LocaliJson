@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocaliJson", "LocaliJson\LocaliJson.csproj", "{65CD33BB-B5CF-4887-9E6B-1966A58A9D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{0BA9E95D-FED4-4056-8ED8-C46A72045C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CD33BB-B5CF-4887-9E6B-1966A58A9D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CD33BB-B5CF-4887-9E6B-1966A58A9D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CD33BB-B5CF-4887-9E6B-1966A58A9D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CD33BB-B5CF-4887-9E6B-1966A58A9D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA9E95D-FED4-4056-8ED8-C46A72045C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA9E95D-FED4-4056-8ED8-C46A72045C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA9E95D-FED4-4056-8ED8-C46A72045C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA9E95D-FED4-4056-8ED8-C46A72045C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
