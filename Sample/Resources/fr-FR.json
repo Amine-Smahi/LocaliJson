@@ -1,0 +1,5 @@
+{
+  "hi": "Bonjour",
+  "welcome": "Bienvenue {0}, Comment va tu?",
+  "argumentException" : "{0} ne doit pas être vide"
+}
